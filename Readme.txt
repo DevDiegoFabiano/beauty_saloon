@@ -1,6 +1,9 @@
 # Beauty Saloon project!
-<a href = "https://devdiegofabiano.github.io/beauty_saloon/" target = "_blank"> Link para o projeto </a>
-![Video de apresentação do projeto Beauty Saloon](https://youtu.be/tarjE3A_CtE)
+
+
+![Video de apresentação do projeto Beauty Saloon](https://youtu.be/LSgUEJS_OMU)
+
+Link para o projeto : https://devdiegofabiano.github.io/beauty_saloon/" target = "_blank"> Link para o projeto
 
 ## Descrição
 
