@@ -1,7 +1,7 @@
 # Beauty Saloon project!
 
-![Apresentação Beauty Saloon].(https://images.macrumors.com/t/4_JEO7M6R1byy4s1juWXpqZEXdM=/2250x/article-new/2021/04/microsoft-to-do-feature.jpg)
-
+![Apresentação Beauty Saloon](https://github.com/DevDiegoFabiano/beauty_saloon/blob/main/assets/fotos/beauty_saloon_apresentation.PNG?raw=true)
+<img src = "https://github.com/DevDiegoFabiano/beauty_saloon/blob/main/assets/fotos/beauty_saloon_apresentation.PNG?raw=true">
 ## Live Demo
 
 **You Can See The Project Live On:** [Here](https://github.com/DevDiegoFabiano/beauty_saloon/blob/main/assets/fotos/beauty_saloon_apresentation.PNG)
