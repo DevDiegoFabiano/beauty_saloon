@@ -1,9 +1,22 @@
-Projeto Responsivo -  HTML5 , CSS3 e JavaScript
+# Beauty Saloon project!
 
-Neste projeto desenvolvemos layouts e aperfeiçoamos habilidades de posicionamento e navegação em DOM ( Document Object Model )
+![Apresentação Beauty Saloon](https://images.macrumors.com/t/4_JEO7M6R1byy4s1juWXpqZEXdM=/2250x/article-new/2021/04/microsoft-to-do-feature.jpg)
 
--------------------------------------------------------------------------
+## Live Demo
 
-Responsive project - HTML5 , CSS3 e JavaScript
+**You Can See The Project Live On:** [Here](https://amirhoseinhesami.github.io/To-Do_App/)
 
-In this project i had make a great responsive layout using grid and flexbox, habilities with the ( Document Object Model ) had been refine.
+## Descrição
+
+**Projeto de salão de cabeleireiros totalmente responsivo e adaptavel **
+
+
+** O projeto foi estruturado com HTML5, CSS3 e JavaScript, utilizei da Arvore DOM para acesso de funcionalidades em conjunto com a lib ScrollReveal e responsividade completa com CSS3** 
+
+Technologies:
+
+- HTML
+- CSS
+- JS
+
+✅ **Fico feliz em ver você por aqui hoje**
