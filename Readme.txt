@@ -1,6 +1,6 @@
 # Beauty Saloon project!
 
-![Apresentação Beauty Saloon](https://youtu.be/tarjE3A_CtE)
+![Video de apresentação do projeto Beauty Saloon](https://youtu.be/tarjE3A_CtE)
 
 ## Descrição
 
