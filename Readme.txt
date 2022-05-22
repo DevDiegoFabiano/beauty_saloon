@@ -1,6 +1,6 @@
 # Beauty Saloon project!
 
-![Apresentação Beauty Saloon](https://images.macrumors.com/t/4_JEO7M6R1byy4s1juWXpqZEXdM=/2250x/article-new/2021/04/microsoft-to-do-feature.jpg)
+![Apresentação Beauty Saloon].(https://images.macrumors.com/t/4_JEO7M6R1byy4s1juWXpqZEXdM=/2250x/article-new/2021/04/microsoft-to-do-feature.jpg)
 
 ## Live Demo
 
