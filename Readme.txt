@@ -9,7 +9,7 @@ Link para o projeto : https://devdiegofabiano.github.io/beauty_saloon/" target =
 
 **Projeto de salão de cabeleireiros totalmente responsivo e adaptavel **
 
-** O projeto foi estruturado com HTML5, CSS3 e JavaScript, utilizei da Arvore DOM para acesso de funcionalidades em conjunto com a lib ScrollReveal e responsividade completa com CSS3** 
+** O projeto foi estruturado com HTML5, CSS3 e JavaScript, utilizei da Arvore DOM para acesso de funcionalidades em conjunto com as libs Swiper, ScrollReveal e responsividade completa com CSS3** 
 
 Technologies:
 
