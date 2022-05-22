@@ -1,5 +1,5 @@
 # Beauty Saloon project!
-<img src = "https://github.com/DevDiegoFabiano/beauty_saloon/blob/main/assets/fotos/beauty_saloon_apresentation.PNG?raw=true">
+<img src = "https://github.com/DevDiegoFabiano/beauty_saloon/blob/main/assets/fotos/beauty_saloon_apresentation.PNG">
 ![Video de apresentação do projeto Beauty Saloon](https://youtu.be/tarjE3A_CtE)
 
 ## Descrição
